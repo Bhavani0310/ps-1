@@ -1,0 +1,27 @@
+.navbar,btn {
+    background-color: rgb(203, 96, 96);
+  }
+  .container-fluid{
+    color:brown;
+  }
+h1{
+    color: rgba(55, 115, 199, 0.909);
+}
+h3{
+    color: red;
+}
+  tr{
+      height:50px;
+      width:200px;
+  }
+  th,td{
+    border:0.5px rgba(41, 66, 65, 0.53);
+    border-style:inset;
+}
+th{
+    background-color:rgba(40, 187, 62, 0.543);
+}
+.icon{
+    fill: aliceblue;
+   
+}
